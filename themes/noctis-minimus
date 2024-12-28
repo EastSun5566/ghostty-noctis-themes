@@ -1,0 +1,59 @@
+# Noctis Minimus
+# Based on https://github.com/liviuschera/noctis
+
+# Terminal Colors
+# ---------------------------
+# terminal.background
+background = 0e1920
+# terminal.foreground
+foreground = c5cdd3
+
+# Cursor
+# ---------------------------
+# terminalCursor.foreground
+cursor-color = c5cdd3
+
+# Selection
+# ---------------------------
+# selection.background
+selection-background = 5998c0
+# terminal.foreground
+selection-foreground = c5cdd3
+
+# ANSI Colors
+# ---------------------------
+# Regular Colors
+# terminal.ansiBlack
+palette = 0=#182a35
+# terminal.ansiRed
+palette = 1=#c08872
+# terminal.ansiGreen
+palette = 2=#72c09f
+# terminal.ansiYellow
+palette = 3=#c8a984
+# terminal.ansiBlue
+palette = 4=#6196b8
+# terminal.ansiMagenta
+palette = 5=#c28097
+# terminal.ansiCyan
+palette = 6=#72b7c0
+# terminal.ansiWhite
+palette = 7=#c5cdd3
+
+# Bright Colors
+# terminal.ansiBrightBlack
+palette = 8=#425866
+# terminal.ansiBrightRed
+palette = 9=#ca8468
+# terminal.ansiBrightGreen
+palette = 10=#84c8ab
+# terminal.ansiBrightYellow
+palette = 11=#d1aa7b
+# terminal.ansiBrightBlue
+palette = 12=#68a4ca
+# terminal.ansiBrightMagenta
+palette = 13=#c88da2
+# terminal.ansiBrightCyan
+palette = 14=#84c0c8
+# terminal.ansiBrightWhite
+palette = 15=#c5d1d3

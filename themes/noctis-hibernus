@@ -1,0 +1,59 @@
+# Noctis Hibernus
+# Based on https://github.com/liviuschera/noctis
+
+# Terminal Colors
+# ---------------------------
+# terminal.background
+background = e1eeef
+# terminal.foreground
+foreground = 005661
+
+# Cursor
+# ---------------------------
+# terminalCursor.foreground
+cursor-color = 005661
+
+# Selection
+# ---------------------------
+# selection.background
+selection-background = 169fb1
+# terminal.foreground
+selection-foreground = 005661
+
+# ANSI Colors
+# ---------------------------
+# Regular Colors
+# terminal.ansiBlack
+palette = 0=#003b42
+# terminal.ansiRed
+palette = 1=#e34e1c
+# terminal.ansiGreen
+palette = 2=#00b368
+# terminal.ansiYellow
+palette = 3=#f49725
+# terminal.ansiBlue
+palette = 4=#0094f0
+# terminal.ansiMagenta
+palette = 5=#ff5792
+# terminal.ansiCyan
+palette = 6=#00bdd6
+# terminal.ansiWhite
+palette = 7=#8ca6a6
+
+# Bright Colors
+# terminal.ansiBrightBlack
+palette = 8=#004d57
+# terminal.ansiBrightRed
+palette = 9=#ff4000
+# terminal.ansiBrightGreen
+palette = 10=#00d17a
+# terminal.ansiBrightYellow
+palette = 11=#ff8c00
+# terminal.ansiBrightBlue
+palette = 12=#0fa3ff
+# terminal.ansiBrightMagenta
+palette = 13=#ff6b9f
+# terminal.ansiBrightCyan
+palette = 14=#00cbe6
+# terminal.ansiBrightWhite
+palette = 15=#bbc3c4

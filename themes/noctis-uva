@@ -1,0 +1,59 @@
+# Noctis Uva
+# Based on https://github.com/liviuschera/noctis
+
+# Terminal Colors
+# ---------------------------
+# terminal.background
+background = 1f1d30
+# terminal.foreground
+foreground = c5c2d6
+
+# Cursor
+# ---------------------------
+# terminalCursor.foreground
+cursor-color = c5c2d6
+
+# Selection
+# ---------------------------
+# selection.background
+selection-background = 7a70c2
+# terminal.foreground
+selection-foreground = c5c2d6
+
+# ANSI Colors
+# ---------------------------
+# Regular Colors
+# terminal.ansiBlack
+palette = 0=#302f3d
+# terminal.ansiRed
+palette = 1=#e66533
+# terminal.ansiGreen
+palette = 2=#49e9a6
+# terminal.ansiYellow
+palette = 3=#e4b781
+# terminal.ansiBlue
+palette = 4=#49ace9
+# terminal.ansiMagenta
+palette = 5=#df769b
+# terminal.ansiCyan
+palette = 6=#49d6e9
+# terminal.ansiWhite
+palette = 7=#b6b3cc
+
+# Bright Colors
+# terminal.ansiBrightBlack
+palette = 8=#504e65
+# terminal.ansiBrightRed
+palette = 9=#e97749
+# terminal.ansiBrightGreen
+palette = 10=#60ebb1
+# terminal.ansiBrightYellow
+palette = 11=#e69533
+# terminal.ansiBrightBlue
+palette = 12=#60b6eb
+# terminal.ansiBrightMagenta
+palette = 13=#e798b3
+# terminal.ansiBrightCyan
+palette = 14=#60dbeb
+# terminal.ansiBrightWhite
+palette = 15=#c5c2d6
