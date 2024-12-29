@@ -32,6 +32,8 @@ git clone https://github.com/eastsun5566/ghostty-noctis-themes.git
 cp ghostty-noctis-themes/themes/* ~/.config/ghostty/themes/
 ```
 
+Use `ghostty +list-themes` preview the themes
+
 ## Usage
 
 Update `~/.config/ghostty/config`
@@ -48,4 +50,38 @@ theme = dark:noctis,light:noctis-lux
 
 ## Screenshots
 
-TBD
+- Noctis
+
+![Noctis](./screenshots/noctis.png)
+
+- Noctis Azureus
+
+![Noctis Azureus](./screenshots/noctis-azureus.png)
+
+- Noctis Bordo
+
+![Noctis Bordo](./screenshots/noctis-bordo.png)
+
+- Noctis Minimus
+
+![Noctis Minimus](./screenshots/noctis-minimus.png)
+
+- Noctis Uva
+
+![Noctis Uva](./screenshots/noctis-uva.png)
+
+- Noctis Viola
+
+![Noctis Viola](./screenshots/noctis-viola.png)
+
+- Noctis Lux
+
+![Noctis Lux](./screenshots/noctis-lux.png)
+
+- Noctis Lilac
+
+![Noctis Lilac](./screenshots/noctis-lilac.png)
+
+- Noctis Hibernus
+
+![Noctis Hibernus](./screenshots/noctis-hibernus.png)
